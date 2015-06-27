@@ -1,0 +1,9 @@
+To install Neo4j run,
+  ./install_on_ubuntu.sh
+
+To check the server is running run,
+  service neo4j-service status
+
+To start the Neo4j shell so that you can run Cypher queries run,
+  neo4j-shell
+
